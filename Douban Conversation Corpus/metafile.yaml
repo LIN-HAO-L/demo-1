@@ -1,0 +1,21 @@
+displayName: Douban Conversation Corpus
+labelTypes:
+- Text
+- Chinese Corpus
+license:
+- Unknown
+mediaTypes:
+- Text
+paperUrl: https://arxiv.org/pdf/1612.01627v2.pdf
+publishDate: "2017"
+publishUrl: https://github.com/MarkWuNLP/MultiTurnResponseSelection
+publisher:
+- Beihang University
+- Nankai University
+- Microsoft Research
+tags:
+- Conversation
+taskTypes:
+- Visual Question Answering
+- Dialogue Generation
+‌​‌‌​​​​‌​​​‌‌‌‌‌​​‌‌​‌​‌​​‌​​​‌‌​‌‌‌​‌‌‌​​‌‌‌‌​‌​​​‌​‌‌‌​​‌‌‌‌​‌​‌‌​​‌‌‌​​‌‌‌‌​‌​​‌‌‌​‌
